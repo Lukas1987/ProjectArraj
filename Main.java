@@ -8,5 +8,9 @@ public class Main {
         MyArraj.test1();
         System.out.println(" ");
         MyArraj.test2();
+        MyArraj.test3();
+        MyArraj.test4();
+        MyArraj.test5();
+        MyArraj.test6();
     }
 }
